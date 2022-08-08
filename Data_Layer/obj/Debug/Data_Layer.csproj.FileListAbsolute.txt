@@ -1,0 +1,9 @@
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Data_Layer\bin\Debug\Data_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Data_Layer\bin\Debug\Data_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Data_Layer\obj\Debug\Data_Layer.csproj.AssemblyReference.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Data_Layer\obj\Debug\Data_Layer.csproj.CoreCompileInputs.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Data_Layer\obj\Debug\Data_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Data_Layer\obj\Debug\Data_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Data_Layer\bin\Debug\Entity_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Data_Layer\bin\Debug\Entity_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Data_Layer\obj\Debug\Data_Layer.csproj.CopyComplete

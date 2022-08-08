@@ -1,0 +1,11 @@
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Logic_Layer\bin\Debug\Logic_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Logic_Layer\bin\Debug\Logic_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Logic_Layer\bin\Debug\Data_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Logic_Layer\bin\Debug\Entity_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Logic_Layer\bin\Debug\Data_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Logic_Layer\bin\Debug\Entity_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Logic_Layer\obj\Debug\Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Logic_Layer\obj\Debug\Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Logic_Layer\obj\Debug\Logic_Layer.csproj.CopyComplete
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Logic_Layer\obj\Debug\Logic_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Logic_Layer\obj\Debug\Logic_Layer.pdb

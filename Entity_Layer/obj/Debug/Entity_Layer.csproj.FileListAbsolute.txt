@@ -1,0 +1,6 @@
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Entity_Layer\bin\Debug\Entity_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Entity_Layer\bin\Debug\Entity_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Entity_Layer\obj\Debug\Entity_Layer.csproj.AssemblyReference.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Entity_Layer\obj\Debug\Entity_Layer.csproj.CoreCompileInputs.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Entity_Layer\obj\Debug\Entity_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\Bus_SystemV2.0\Entity_Layer\obj\Debug\Entity_Layer.pdb
